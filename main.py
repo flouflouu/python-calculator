@@ -1,4 +1,8 @@
 # Add your functions here!
+def add(num1, num2):
+     result = num1 + num2
+     print("The multiplication result is: ", result)
+
 def multiply(num1, num2):
      result = num1 * num2
      print("The multiplication result is: ", result)
